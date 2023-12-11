@@ -21,4 +21,8 @@ test:
 run:
 	go run main.go
 
+<<<<<<< HEAD
 .PHONY: network postgres createdb migrateup sqlc test run
+=======
+.PHONY: network postgres createdb migrateup sqlc test run
+>>>>>>> ba6baef (serviceS)
