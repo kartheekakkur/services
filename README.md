@@ -1,10 +1,7 @@
 # SERVICE Application
 
-<<<<<<< HEAD
-This project provides api's to interact with services. It uses postgres (SQL) as the database.
-=======
 This project provides api's to interact with services. It uses postgres (SQL) as the database keeping consistency and availability as top priority.
->>>>>>> ba6baef (serviceS)
+
 
 ### Tools
 
